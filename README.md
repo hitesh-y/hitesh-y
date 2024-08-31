@@ -65,10 +65,10 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
   </a>
 </p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hitesh-y&theme=light&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=hitesh-y&theme=light&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=hitesh-y&theme=light&hide_border=true)
 <br/>
-# 📊 GitHub Stats: 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hitesh-y&theme=default&border=false&include_all_commits=true&count_private=true&layout=compact)
-![](https://github-readme-stats.vercel.app/api?username=hitesh-y&theme=default&_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=hitesh-y&theme=default&hide_border=false) 
-<br/>
+
  
