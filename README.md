@@ -66,9 +66,9 @@
   </a>
 </p>
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hitesh-y&theme=light&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-![](https://github-readme-stats.vercel.app/api?username=hitesh-y&theme=light&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=hitesh-y&theme=light&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hitesh-y&theme=light&border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=hitesh-y&theme=light&_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=hitesh-y&theme=light&hide_border=false) 
 <br/>
 
  
