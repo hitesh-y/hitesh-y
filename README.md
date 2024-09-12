@@ -69,7 +69,6 @@
 
 # 📊 GitHub Stats:
 ![Alt text](https://github-readme-stats.vercel.app/api/top-langs/?username=hitesh-y&theme=light&border=false&include_all_commits=true&count_private=true&layout=compact)
-
 ![Alt text](https://github-readme-streak-stats.herokuapp.com/?user=hitesh-y&theme=light&hide_border=false) 
  
 
